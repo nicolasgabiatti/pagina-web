@@ -1,4 +1,11 @@
 body{
- background-color: rgb(83, 209, 161);   
+ background-color: rgb(233, 211, 87);   
 font-family: Emilys Candy;
 }
+header{
+    font-size: 50px;
+    text-align: center;
+    color: lightgoldenrodyellow;
+    border: dotted;
+}
+
